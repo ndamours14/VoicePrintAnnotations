@@ -1,0 +1,502 @@
+{
+  "event_id": "db8a8168-3aca-48e1-aabe-57f184cf682d",
+  "source_id": "9e78365d-17e5-46d6-a711-10f038165089",
+  "set": "Avalon Structural Metadata xk81jm62j [Index]",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 35,
+      "annotation": [
+        {
+          "text": "Intro and theme music"
+        }
+      ],
+      "tags": [],
+      "uuid": "31742386-9fd0-4fa1-b16a-f8a1c5ba79af"
+    },
+    {
+      "start_time": 35,
+      "end_time": 80,
+      "annotation": [
+        {
+          "text": "Jars Balan introduces topic \"Canadian English and Canlit\""
+        }
+      ],
+      "tags": [],
+      "uuid": "fad9600c-7fd1-4310-a9be-074326dd0123"
+    },
+    {
+      "start_time": 80,
+      "end_time": 82,
+      "annotation": [
+        {
+          "text": "Intro to \"Word Works\""
+        }
+      ],
+      "tags": [],
+      "uuid": "1f7d48d9-6b06-4eed-9225-288e6c16d422"
+    },
+    {
+      "start_time": 82,
+      "end_time": 119,
+      "annotation": [
+        {
+          "text": "Don Harron performs comedic sketch about beaver as Canada's national symbol"
+        }
+      ],
+      "tags": [],
+      "uuid": "9c7c580e-4470-4a68-bfc0-4c8fe7ab42be"
+    },
+    {
+      "start_time": 119,
+      "end_time": 179,
+      "annotation": [
+        {
+          "text": "Anna Altman discusses Canadian pronunciations and spellings"
+        }
+      ],
+      "tags": [],
+      "uuid": "d0463e2d-2561-4205-aa18-586b959b02cd"
+    },
+    {
+      "start_time": 179,
+      "end_time": 543,
+      "annotation": [
+        {
+          "text": "Balan and Jack Chambers discuss history of Canadian English"
+        }
+      ],
+      "tags": [],
+      "uuid": "40768262-2bf0-4ecd-b7a0-052fa4f3c5c7"
+    },
+    {
+      "start_time": 543,
+      "end_time": 596,
+      "annotation": [
+        {
+          "text": "Balan and Chambers discuss Canadian English as sub-dialect"
+        }
+      ],
+      "tags": [],
+      "uuid": "6b8b8a87-f2ce-4eaf-88c7-1bb9749e1070"
+    },
+    {
+      "start_time": 596,
+      "end_time": 948,
+      "annotation": [
+        {
+          "text": "Balan and Chambers discuss difference between Canadian and American English"
+        }
+      ],
+      "tags": [],
+      "uuid": "2144309b-c100-43af-9389-73e85df8fe7c"
+    },
+    {
+      "start_time": 948,
+      "end_time": 959,
+      "annotation": [
+        {
+          "text": "Intro to \"Parenthesis\""
+        }
+      ],
+      "tags": [],
+      "uuid": "bb197666-9b2b-4b41-81c8-55c75e655778"
+    },
+    {
+      "start_time": 959,
+      "end_time": 1015,
+      "annotation": [
+        {
+          "text": "Roman Onufrijchuk discusses Bungi creole dialect of Manitoba"
+        }
+      ],
+      "tags": [],
+      "uuid": "11c3b4e9-a8cb-4174-9700-5c2e79197199"
+    },
+    {
+      "start_time": 1015,
+      "end_time": 1220,
+      "annotation": [
+        {
+          "text": "Balan and Chambers discuss regional Canadian dialects"
+        }
+      ],
+      "tags": [],
+      "uuid": "931491e0-d147-4132-8e6f-c47720b548f3"
+    },
+    {
+      "start_time": 1220,
+      "end_time": 1228,
+      "annotation": [
+        {
+          "text": "Intro to \"Dictionary Definitions\""
+        }
+      ],
+      "tags": [],
+      "uuid": "4295a6d3-b420-4add-9e1d-3bfcc04f1391"
+    },
+    {
+      "start_time": 1228,
+      "end_time": 1251,
+      "annotation": [
+        {
+          "text": "Altman discusses Canadian vocabulary"
+        }
+      ],
+      "tags": [],
+      "uuid": "de8b0f3b-8e3b-4c8b-828b-129e3e662521"
+    },
+    {
+      "start_time": 1251,
+      "end_time": 1467,
+      "annotation": [
+        {
+          "text": "Richard Brown discusses history of Canadian words"
+        }
+      ],
+      "tags": [],
+      "uuid": "3d5efce0-73ac-471a-a599-539d34978a2e"
+    },
+    {
+      "start_time": 1467,
+      "end_time": 1476,
+      "annotation": [
+        {
+          "text": "Intro to \"Words Worth Listening To\""
+        }
+      ],
+      "tags": [],
+      "uuid": "514df5a3-a5c8-440e-9df5-85550992164c"
+    },
+    {
+      "start_time": 1476,
+      "end_time": 1513,
+      "annotation": [
+        {
+          "text": "Altman discusses class dialect"
+        }
+      ],
+      "tags": [],
+      "uuid": "333b7ecf-b600-43c9-90b8-91c7f0b2fbf0"
+    },
+    {
+      "start_time": 1513,
+      "end_time": 1602,
+      "annotation": [
+        {
+          "text": "Balan and Grace Jolly discuss dialect in literature"
+        }
+      ],
+      "tags": [],
+      "uuid": "4a55e831-0279-42ca-bc15-348b3d6fe71c"
+    },
+    {
+      "start_time": 1602,
+      "end_time": 1772,
+      "annotation": [
+        {
+          "text": "Balan and Jolly discusses and perform passage from W. O. Mitchell"
+        }
+      ],
+      "tags": [],
+      "uuid": "73eaab7e-90b7-4cf0-89f5-ff23075986da"
+    },
+    {
+      "start_time": 1772,
+      "end_time": 1776,
+      "annotation": [
+        {
+          "text": "Intro to \"Apostrophe\""
+        }
+      ],
+      "tags": [],
+      "uuid": "73b63043-80e3-466d-a1f6-8afc7a23371f"
+    },
+    {
+      "start_time": 1776,
+      "end_time": 1808,
+      "annotation": [
+        {
+          "text": "Balan discusses how immigration affects dialect"
+        }
+      ],
+      "tags": [],
+      "uuid": "46d37e2f-5260-48fb-b3bb-bd20e5097662"
+    },
+    {
+      "start_time": 1808,
+      "end_time": 1814,
+      "annotation": [
+        {
+          "text": "Intro to \"Footnote\""
+        }
+      ],
+      "tags": [],
+      "uuid": "9cae7bb5-a6c6-4dfc-9b4f-22a4a1b81bfd"
+    },
+    {
+      "start_time": 1814,
+      "end_time": 1885,
+      "annotation": [
+        {
+          "text": "Terry Winnick discusses further reading"
+        }
+      ],
+      "tags": [],
+      "uuid": "2585e070-7e3b-45f5-ad59-b1d1faea4b9d"
+    },
+    {
+      "start_time": 1885,
+      "end_time": 1952,
+      "annotation": [
+        {
+          "text": "Ambient sound: music and station identification"
+        }
+      ],
+      "tags": [],
+      "uuid": "d1c8fc4f-7cad-4a75-90f8-113ff94e016f"
+    },
+    {
+      "start_time": 1952,
+      "end_time": 1956,
+      "annotation": [
+        {
+          "text": "Intro to \"Literary Supplement\""
+        }
+      ],
+      "tags": [],
+      "uuid": "6bc1eec3-9e78-4256-8396-21ea4efe89e0"
+    },
+    {
+      "start_time": 1956,
+      "end_time": 2056,
+      "annotation": [
+        {
+          "text": "Onufrijchuk performs \"Laurentian Shield\" by F. R. Scott"
+        }
+      ],
+      "tags": [],
+      "uuid": "09fe3154-0c8b-41cd-ae18-587b96853034"
+    },
+    {
+      "start_time": 2056,
+      "end_time": 2095,
+      "annotation": [
+        {
+          "text": "Onufrijchuk performs \"The Call of the Wild\" by Scott"
+        }
+      ],
+      "tags": [],
+      "uuid": "a50afccf-106f-4fe7-bc28-0426aba4c8ca"
+    },
+    {
+      "start_time": 2095,
+      "end_time": 2139,
+      "annotation": [
+        {
+          "text": "Onufrijchuk performs \"National Identity\" by Scott"
+        }
+      ],
+      "tags": [],
+      "uuid": "ca455c24-6802-47b8-acea-b0da69bdce22"
+    },
+    {
+      "start_time": 2139,
+      "end_time": 2226,
+      "annotation": [
+        {
+          "text": "Onufrijchuk performs \"The Canadian Authors Meet\" by Scott"
+        }
+      ],
+      "tags": [],
+      "uuid": "bcbdefa9-bc13-47cf-ad23-f5e6b0ced6cc"
+    },
+    {
+      "start_time": 2226,
+      "end_time": 2241,
+      "annotation": [
+        {
+          "text": "Ambient sound: music"
+        }
+      ],
+      "tags": [],
+      "uuid": "b75f1a67-eeb4-4eb1-8fce-d76bdaca9bf6"
+    },
+    {
+      "start_time": 2241,
+      "end_time": 2244,
+      "annotation": [
+        {
+          "text": "Intro to \"Symposium\""
+        }
+      ],
+      "tags": [],
+      "uuid": "cf14195e-8d32-4091-b0d0-6b7f19c352dc"
+    },
+    {
+      "start_time": 2244,
+      "end_time": 2297,
+      "annotation": [
+        {
+          "text": "Balan introduces Margaret Atwood"
+        }
+      ],
+      "tags": [],
+      "uuid": "f1c99f81-dc63-4804-90c5-82a5a8571165"
+    },
+    {
+      "start_time": 2297,
+      "end_time": 2488,
+      "annotation": [
+        {
+          "text": "Balan and Atwood discuss Canadian literary community"
+        }
+      ],
+      "tags": [],
+      "uuid": "a89970e6-757c-4ca1-97c4-2c27a8d287e0"
+    },
+    {
+      "start_time": 2488,
+      "end_time": 2615,
+      "annotation": [
+        {
+          "text": "Balan and Atwood discuss development of Canadian literary style in 1960s"
+        }
+      ],
+      "tags": [],
+      "uuid": "73df26fc-dd68-4ac4-9fdd-2b70bf69c92d"
+    },
+    {
+      "start_time": 2615,
+      "end_time": 2693,
+      "annotation": [
+        {
+          "text": "Balan and Atwood discuss challenges of writing Canlit"
+        }
+      ],
+      "tags": [],
+      "uuid": "4e2e4ec9-bb51-4175-9163-040976a94d44"
+    },
+    {
+      "start_time": 2693,
+      "end_time": 2795,
+      "annotation": [
+        {
+          "text": "Balan and Atwood discuss literary scene on campus"
+        }
+      ],
+      "tags": [],
+      "uuid": "55fa13bd-1183-45a0-838f-838cdc558956"
+    },
+    {
+      "start_time": 2795,
+      "end_time": 2939,
+      "annotation": [
+        {
+          "text": "Balan and Atwood discuss nationalist politics"
+        }
+      ],
+      "tags": [],
+      "uuid": "fbf9723b-1da7-49d3-9042-cc49e3b08a61"
+    },
+    {
+      "start_time": 2939,
+      "end_time": 2947,
+      "annotation": [
+        {
+          "text": "Intro to \"Popular Poetics\""
+        }
+      ],
+      "tags": [],
+      "uuid": "8ac689ac-b77e-4aad-bd9f-d4a0272c1df1"
+    },
+    {
+      "start_time": 2947,
+      "end_time": 3085,
+      "annotation": [
+        {
+          "text": "Winnick discusses loyalist poets"
+        }
+      ],
+      "tags": [],
+      "uuid": "95120dd9-65d7-4eef-b93a-034104ee292c"
+    },
+    {
+      "start_time": 3085,
+      "end_time": 3089,
+      "annotation": [
+        {
+          "text": "Intro to \"Synthesis\""
+        }
+      ],
+      "tags": [],
+      "uuid": "38ef86d1-aef4-4fe0-9562-cf7e3a01df74"
+    },
+    {
+      "start_time": 3089,
+      "end_time": 3136,
+      "annotation": [
+        {
+          "text": "Balan discusses how Canlit is underappreciated"
+        }
+      ],
+      "tags": [],
+      "uuid": "95e52c76-49d2-4320-9e5b-7546e5eeb50d"
+    },
+    {
+      "start_time": 3136,
+      "end_time": 3142,
+      "annotation": [
+        {
+          "text": "Intro to \"Bibliography\""
+        }
+      ],
+      "tags": [],
+      "uuid": "491d86c5-2be7-4ef9-ab89-13e3c5298400"
+    },
+    {
+      "start_time": 3142,
+      "end_time": 3232,
+      "annotation": [
+        {
+          "text": "Winnick discusses further reading"
+        }
+      ],
+      "tags": [],
+      "uuid": "12ae56ea-aacb-456e-ae0d-42560b87e021"
+    },
+    {
+      "start_time": 3232,
+      "end_time": 3233,
+      "annotation": [
+        {
+          "text": "Intro to \"Last Word\""
+        }
+      ],
+      "tags": [],
+      "uuid": "1dd748ec-5f3d-4e3f-a9f9-f3d209fd9602"
+    },
+    {
+      "start_time": 3233,
+      "end_time": 3500,
+      "annotation": [
+        {
+          "text": "Stringband performs \"The Maple Leaf Dog\""
+        }
+      ],
+      "tags": [],
+      "uuid": "c687c98f-8f28-4945-ad25-bb59a7bf8f6e"
+    },
+    {
+      "start_time": 3500,
+      "end_time": 3585,
+      "annotation": [
+        {
+          "text": "Outro and credits"
+        }
+      ],
+      "tags": [],
+      "uuid": "7ea5e2fe-4833-41b0-ab77-4d1aa47db9c5"
+    }
+  ]
+}
