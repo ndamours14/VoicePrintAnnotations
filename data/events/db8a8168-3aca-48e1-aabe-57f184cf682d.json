@@ -3,7 +3,7 @@
     "9e78365d-17e5-46d6-a711-10f038165089": {
       "label": "AV File 1",
       "file_url": "https://aviary-p-ualberta.s3.wasabisys.com/collection_resource_files/resource_files/000/134/067/original/88-47-210-a.wav?1660731745",
-      "duration": 3585.81116
+      "duration": 3585
     }
   },
   "auto_generate_web_page": true,
@@ -21,6 +21,6 @@
   "created_by": "ndamours14",
   "item_type": "Audio",
   "label": "VoicePrint: Canadian English & Literature",
-  "updated_at": "2025-04-30T15:14:42.895Z",
+  "updated_at": "2025-04-30T15:16:46.723Z",
   "updated_by": "ndamours14"
 }
