@@ -1,7 +1,7 @@
 {
   "event_id": "db8a8168-3aca-48e1-aabe-57f184cf682d",
   "source_id": "9e78365d-17e5-46d6-a711-10f038165089",
-  "set": "[AssemblyAI Transcript] 88-47-210-a.wav [Transcript]",
+  "set": "AssemblyAI Transcript (human-corrected)",
   "annotations": [
     {
       "start_time": 0,
